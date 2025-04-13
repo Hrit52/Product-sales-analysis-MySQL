@@ -16,3 +16,9 @@ Filtering with WHERE, HAVING, and subqueries for specific insights
 GROUP BY for segment-wise breakdown (e.g., by category or region)
 ORDER BY to rank top-selling products and high-revenue regions
 Date functions to analyze trends over months or quarters
+
+# key insights 
+Top-selling product categories and their contribution to revenue
+Monthly and quarterly sales trends
+High-performing regions and customer segments
+Customer purchase behavior and average order value
